@@ -1,0 +1,18 @@
+97d6ac7 (HEAD -> new_feature-456089) Added new file: triangle.py. Fix error in def perimetr in rectangle.py file
+1cd5d8d Added new file: rectangel.py
+d078c8d (origin/main, origin/HEAD, main) L-03: Docs added
+8ba9aeb L-03: Circle and square added
+
+
+
+commit 97d6ac70f19efd2f9d3ef26c77d29128be32544b (HEAD -> new_feature-456089)
+Author: Alexandr <babenkoalexandr06@gmail.com>
+Date:   Fri Sep 20 11:11:02 2024 +0300
+
+    Added new file: triangle.py. Fix error in def perimetr in rectangle.py file
+
+commit 1cd5d8d764306bf5dd92a668530ac4cfa48d6451
+Author: Alexandr <babenkoalexandr06@gmail.com>
+Date:   Fri Sep 20 11:05:45 2024 +0300
+
+    Added new file: rectangel.py
